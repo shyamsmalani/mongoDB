@@ -1,0 +1,20 @@
+//Create
+{
+	"id" : 1,
+	"email" : "shyam.malani@yash.com",
+	"mobileNum" : "123456",
+    "firstName" : "shyam",
+    "age" : 24,
+    "city" : {
+        "name" : "PUNE",
+        "pin" : 1234
+    },
+    "favoriteColors" : ["red", "green"]
+}
+//Search
+
+{
+	"ageGT" : 10,
+	"ageLT" : 20,
+	 "favoriteColors" : ["red", "green"]
+}

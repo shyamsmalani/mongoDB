@@ -1,0 +1,100 @@
+{ "_id" : 1, "email" : "A1@yash.com", "mobileNum" : "1234561", "firstName" : "A1", "age" : 11, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["red", "green"]}
+{ "_id" : 2, "email" : "A2@yash.com", "mobileNum" : "1234562", "firstName" : "A2", "age" : 12, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["red", "green"]}
+{ "_id" : 3, "email" : "A3@yash.com", "mobileNum" : "1234563", "firstName" : "A3", "age" : 13, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["red", "green"]}
+{ "_id" : 4, "email" : "A4@yash.com", "mobileNum" : "1234564", "firstName" : "A4", "age" : 14, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["red", "green"]}
+{ "_id" : 5, "email" : "A5@yash.com", "mobileNum" : "1234565", "firstName" : "A5", "age" : 15, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["red", "green"]}
+{ "_id" : 6, "email" : "A6@yash.com", "mobileNum" : "1234566", "firstName" : "A6", "age" : 16, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["black", "green"]}
+{ "_id" : 7, "email" : "A7@yash.com", "mobileNum" : "1234567", "firstName" : "A7", "age" : 17, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["black", "green"]}
+{ "_id" : 8, "email" : "A8@yash.com", "mobileNum" : "1234568", "firstName" : "A8", "age" : 18, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["black", "green"]}
+{ "_id" : 9, "email" : "A9@yash.com", "mobileNum" : "1234569", "firstName" : "A9", "age" : 19, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["black", "green"]}
+{ "_id" : 10, "email" : "A10@yash.com", "mobileNum" : "12345610", "firstName" : "A10", "age" : 20, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["black", "green"]}
+{ "_id" : 11, "email" : "A11@yash.com", "mobileNum" : "12345611", "firstName" : "A11", "age" : 26, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["yellow", "green"]}
+{ "_id" : 12, "email" : "A12@yash.com", "mobileNum" : "12345612", "firstName" : "A12", "age" : 27, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["yellow", "green"]}
+{ "_id" : 13, "email" : "A13@yash.com", "mobileNum" : "12345613", "firstName" : "A13", "age" : 28, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["yellow", "green"]}
+{ "_id" : 14, "email" : "A14@yash.com", "mobileNum" : "12345614", "firstName" : "A14", "age" : 29, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["yellow", "green"]}
+{ "_id" : 15, "email" : "A15@yash.com", "mobileNum" : "12345615", "firstName" : "A15", "age" : 30, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["yellow", "green"]}
+{ "_id" : 16, "email" : "A16@yash.com", "mobileNum" : "12345616", "firstName" : "A16", "age" : 31, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["red", "green"]}
+{ "_id" : 17, "email" : "A17@yash.com", "mobileNum" : "12345617", "firstName" : "A17", "age" : 32, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["red", "green"]}
+{ "_id" : 18, "email" : "A18@yash.com", "mobileNum" : "12345618", "firstName" : "A18", "age" : 33, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["red", "green"]}
+{ "_id" : 19, "email" : "A19@yash.com", "mobileNum" : "12345619", "firstName" : "A19", "age" : 34, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["red", "green"]}
+{ "_id" : 20, "email" : "A20@yash.com", "mobileNum" : "12345620", "firstName" : "A20", "age" : 35, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["red", "green"]}
+{ "_id" : 21, "email" : "A21@yash.com", "mobileNum" : "12345621", "firstName" : "A21", "age" : 36, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["red", "green"]}
+{ "_id" : 22, "email" : "A22@yash.com", "mobileNum" : "12345622", "firstName" : "A22", "age" : 37, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["red", "green"]}
+{ "_id" : 23, "email" : "A23@yash.com", "mobileNum" : "12345623", "firstName" : "A23", "age" : 38, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["red", "green"]}
+{ "_id" : 24, "email" : "A24@yash.com", "mobileNum" : "12345624", "firstName" : "A24", "age" : 39, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["red", "green"]}
+{ "_id" : 25, "email" : "A25@yash.com", "mobileNum" : "12345625", "firstName" : "A25", "age" : 40, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["red", "green"]}
+{ "_id" : 26, "email" : "A26@yash.com", "mobileNum" : "12345626", "firstName" : "A26", "age" : 41, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["yellow"]}
+{ "_id" : 27, "email" : "A27@yash.com", "mobileNum" : "12345627", "firstName" : "A27", "age" : 42, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["yellow"]}
+{ "_id" : 28, "email" : "A28@yash.com", "mobileNum" : "12345628", "firstName" : "A28", "age" : 43, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["yellow"]}
+{ "_id" : 29, "email" : "A29@yash.com", "mobileNum" : "12345629", "firstName" : "A29", "age" : 44, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["yellow"]}
+{ "_id" : 30, "email" : "A30@yash.com", "mobileNum" : "12345630", "firstName" : "A30", "age" : 45, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["yellow"]}
+{ "_id" : 31, "email" : "A31@yash.com", "mobileNum" : "12345631", "firstName" : "A31", "age" : 46, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["yellow"]}
+{ "_id" : 32, "email" : "A32@yash.com", "mobileNum" : "12345632", "firstName" : "A32", "age" : 47, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["yellow"]}
+{ "_id" : 33, "email" : "A33@yash.com", "mobileNum" : "12345633", "firstName" : "A33", "age" : 48, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["yellow"]}
+{ "_id" : 34, "email" : "A34@yash.com", "mobileNum" : "12345634", "firstName" : "A34", "age" : 49, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["yellow"]}
+{ "_id" : 35, "email" : "A35@yash.com", "mobileNum" : "12345635", "firstName" : "A35", "age" : 50, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["yellow"]}{ "_id" : 35, "email" : "A35@yash.com", "mobileNum" : "12345635", "firstName" : "A35", "age" : 35, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["red"]}
+{ "_id" : 36, "email" : "A36@yash.com", "mobileNum" : "12345636", "firstName" : "A36", "age" : 36, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["red"]}
+{ "_id" : 37, "email" : "A37@yash.com", "mobileNum" : "12345637", "firstName" : "A37", "age" : 37, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["red"]}
+{ "_id" : 38, "email" : "A38@yash.com", "mobileNum" : "12345638", "firstName" : "A38", "age" : 38, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["red"]}
+{ "_id" : 39, "email" : "A39@yash.com", "mobileNum" : "12345639", "firstName" : "A39", "age" : 39, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["red"]}
+{ "_id" : 40, "email" : "A40@yash.com", "mobileNum" : "12345640", "firstName" : "A40", "age" : 40, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["red"]}
+{ "_id" : 41, "email" : "A41@yash.com", "mobileNum" : "12345641", "firstName" : "A41", "age" : 41, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["red"]}
+{ "_id" : 42, "email" : "A42@yash.com", "mobileNum" : "12345642", "firstName" : "A42", "age" : 42, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["red"]}
+{ "_id" : 43, "email" : "A43@yash.com", "mobileNum" : "12345643", "firstName" : "A43", "age" : 43, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["red"]}
+{ "_id" : 44, "email" : "A44@yash.com", "mobileNum" : "12345644", "firstName" : "A44", "age" : 44, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["red"]}
+{ "_id" : 45, "email" : "A45@yash.com", "mobileNum" : "12345645", "firstName" : "A45", "age" : 45, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["red"]}
+{ "_id" : 46, "email" : "A46@yash.com", "mobileNum" : "12345646", "firstName" : "A46", "age" : 46, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["red"]}
+{ "_id" : 47, "email" : "A47@yash.com", "mobileNum" : "12345647", "firstName" : "A47", "age" : 47, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["red"]}
+{ "_id" : 48, "email" : "A48@yash.com", "mobileNum" : "12345648", "firstName" : "A48", "age" : 48, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["red"]}
+{ "_id" : 49, "email" : "A49@yash.com", "mobileNum" : "12345649", "firstName" : "A49", "age" : 49, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["red"]}
+{ "_id" : 50, "email" : "A50@yash.com", "mobileNum" : "12345650", "firstName" : "A50", "age" : 50, "city" : { "name" : "BHOPAL", "pin" : 0755 }, "favoriteColors" : ["red"]}
+{ "_id" : 51, "email" : "A51@yash.com", "mobileNum" : "12345651", "firstName" : "A51", "age" : 34, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["black"]}
+{ "_id" : 52, "email" : "A52@yash.com", "mobileNum" : "12345652", "firstName" : "A52", "age" : 33, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["black"]}
+{ "_id" : 53, "email" : "A53@yash.com", "mobileNum" : "12345653", "firstName" : "A53", "age" : 32, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["black"]}
+{ "_id" : 54, "email" : "A54@yash.com", "mobileNum" : "12345654", "firstName" : "A54", "age" : 31, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["black"]}
+{ "_id" : 55, "email" : "A55@yash.com", "mobileNum" : "12345655", "firstName" : "A55", "age" : 30, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["black"]}
+{ "_id" : 56, "email" : "A56@yash.com", "mobileNum" : "12345656", "firstName" : "A56", "age" : 29, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["black"]}
+{ "_id" : 57, "email" : "A57@yash.com", "mobileNum" : "12345657", "firstName" : "A57", "age" : 28, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["black"]}
+{ "_id" : 58, "email" : "A58@yash.com", "mobileNum" : "12345658", "firstName" : "A58", "age" : 27, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["black"]}
+{ "_id" : 59, "email" : "A59@yash.com", "mobileNum" : "12345659", "firstName" : "A59", "age" : 26, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["black"]}
+{ "_id" : 60, "email" : "A60@yash.com", "mobileNum" : "12345660", "firstName" : "A60", "age" : 25, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["black"]}
+{ "_id" : 61, "email" : "A11@yash.com", "mobileNum" : "12345661", "firstName" : "A11", "age" : 24, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["green"]}
+{ "_id" : 62, "email" : "A12@yash.com", "mobileNum" : "12345662", "firstName" : "A12", "age" : 23, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["green"]}
+{ "_id" : 63, "email" : "A13@yash.com", "mobileNum" : "12345663", "firstName" : "A13", "age" : 22, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["green"]}
+{ "_id" : 64, "email" : "A14@yash.com", "mobileNum" : "12345664", "firstName" : "A14", "age" : 21, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["green"]}
+{ "_id" : 65, "email" : "A15@yash.com", "mobileNum" : "12345665", "firstName" : "A15", "age" : 20, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["green"]}
+{ "_id" : 66, "email" : "A16@yash.com", "mobileNum" : "12345666", "firstName" : "A16", "age" : 19, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["green"]}
+{ "_id" : 67, "email" : "A17@yash.com", "mobileNum" : "12345667", "firstName" : "A17", "age" : 18, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["green"]}
+{ "_id" : 68, "email" : "A18@yash.com", "mobileNum" : "12345668", "firstName" : "A18", "age" : 17, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["green"]}
+{ "_id" : 69, "email" : "A19@yash.com", "mobileNum" : "12345669", "firstName" : "A19", "age" : 16, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["green"]}
+{ "_id" : 70, "email" : "A20@yash.com", "mobileNum" : "12345670", "firstName" : "A20", "age" : 15, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["green"]}
+{ "_id" : 71, "email" : "A21@yash.com", "mobileNum" : "12345671", "firstName" : "A21", "age" : 14, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["green"]}
+{ "_id" : 72, "email" : "A22@yash.com", "mobileNum" : "12345672", "firstName" : "A22", "age" : 13, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["green"]}
+{ "_id" : 73, "email" : "A23@yash.com", "mobileNum" : "12345673", "firstName" : "A23", "age" : 12, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["green"]}
+{ "_id" : 74, "email" : "A24@yash.com", "mobileNum" : "12345674", "firstName" : "A24", "age" : 11, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["green"]}
+{ "_id" : 75, "email" : "A25@yash.com", "mobileNum" : "12345675", "firstName" : "A25", "age" : 10, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["green"]}
+{ "_id" : 76, "email" : "A26@yash.com", "mobileNum" : "12345676", "firstName" : "A26", "age" : 9, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["green"]}
+{ "_id" : 77, "email" : "A27@yash.com", "mobileNum" : "12345677", "firstName" : "A27", "age" : 8, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["green"]}
+{ "_id" : 78, "email" : "A28@yash.com", "mobileNum" : "12345678", "firstName" : "A28", "age" : 7, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["green"]}
+{ "_id" : 79, "email" : "A29@yash.com", "mobileNum" : "12345679", "firstName" : "A29", "age" : 6, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["green"]}
+{ "_id" : 80, "email" : "A30@yash.com", "mobileNum" : "12345680", "firstName" : "A30", "age" : 5, "city" : { "name" : "PUNE", "pin" : 411028 }, "favoriteColors" : ["green"]}
+{ "_id" : 81, "email" : "A31@yash.com", "mobileNum" : "12345681", "firstName" : "A31", "age" : 29, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["black", "red"]}
+{ "_id" : 82, "email" : "A32@yash.com", "mobileNum" : "12345682", "firstName" : "A32", "age" : 28, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["black", "red"]}
+{ "_id" : 83, "email" : "A33@yash.com", "mobileNum" : "12345683", "firstName" : "A33", "age" : 27, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["black", "red"]}
+{ "_id" : 84, "email" : "A34@yash.com", "mobileNum" : "12345684", "firstName" : "A34", "age" : 26, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["black", "red"]}
+{ "_id" : 85, "email" : "A35@yash.com", "mobileNum" : "12345685", "firstName" : "A35", "age" : 25, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["black", "red"]}
+{ "_id" : 86, "email" : "A36@yash.com", "mobileNum" : "12345686", "firstName" : "A36", "age" : 24, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["black", "red"]}
+{ "_id" : 87, "email" : "A37@yash.com", "mobileNum" : "12345687", "firstName" : "A37", "age" : 23, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["black", "red"]}
+{ "_id" : 88, "email" : "A38@yash.com", "mobileNum" : "12345688", "firstName" : "A38", "age" : 22, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["black", "red"]}
+{ "_id" : 89, "email" : "A39@yash.com", "mobileNum" : "12345689", "firstName" : "A39", "age" : 21, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["black", "red"]}
+{ "_id" : 90, "email" : "A40@yash.com", "mobileNum" : "12345690", "firstName" : "A40", "age" : 20, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["black", "red"]}
+{ "_id" : 91, "email" : "A41@yash.com", "mobileNum" : "12345691", "firstName" : "A41", "age" : 19, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["black", "red"]}
+{ "_id" : 92, "email" : "A42@yash.com", "mobileNum" : "12345692", "firstName" : "A42", "age" : 18, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["black", "red"]}
+{ "_id" : 93, "email" : "A43@yash.com", "mobileNum" : "12345693", "firstName" : "A43", "age" : 17, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["black", "red"]}
+{ "_id" : 94, "email" : "A44@yash.com", "mobileNum" : "12345694", "firstName" : "A44", "age" : 16, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["black", "red"]}
+{ "_id" : 95, "email" : "A45@yash.com", "mobileNum" : "12345695", "firstName" : "A45", "age" : 15, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["black", "red"]}
+{ "_id" : 96, "email" : "A46@yash.com", "mobileNum" : "12345696", "firstName" : "A46", "age" : 14, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["black", "red"]}
+{ "_id" : 97, "email" : "A47@yash.com", "mobileNum" : "12345697", "firstName" : "A47", "age" : 13, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["black", "red"]}
+{ "_id" : 98, "email" : "A48@yash.com", "mobileNum" : "12345698", "firstName" : "A48", "age" : 12, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["black", "red"]}
+{ "_id" : 99, "email" : "A49@yash.com", "mobileNum" : "12345699", "firstName" : "A49", "age" : 11, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["black", "red"]}
+{ "_id" : 100, "email" : "A50@yash.com", "mobileNum" : "123456100", "firstName" : "A50", "age" : 10, "city" : { "name" : "INDORE", "pin" : 0731 }, "favoriteColors" : ["black", "red"]}
